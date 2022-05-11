@@ -1,4 +1,4 @@
-# ever_oasis_gmsm
+# ever_oasis_gmsg
 Tool for unpack/repack gmsg files from EU ver. Ever Oasis 3DS <br />
 Running on luajit 2.1.0
 
